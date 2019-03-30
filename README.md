@@ -1,1 +1,3 @@
-# python-game
+# An awesome Python Game!!
+
+Under construction...
