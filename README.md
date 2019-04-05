@@ -7,5 +7,5 @@ Install [Python 3.7](https://www.python.org/downloads/) and [pygame](https://www
 *Running the game:* 
 
 ```
-python pygame
+python game.py
 ```
